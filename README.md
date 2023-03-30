@@ -18,3 +18,6 @@ Do note, if you have a EAC or BE protected game running and then you run this sp
 
 ## Is there any other spoofers that work on EAC or BE?
 You would have to check yourself, but believe me. You will never find an open source or free undetected HWID spoofer. If you really wanna get a cheat or HWID spoofer, you have to be ready to spend some cash.
+
+## Will this project be updated?
+Nah, don't really see any reason to update since it works for its intended use which is getting free trials
